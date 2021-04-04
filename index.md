@@ -31,6 +31,6 @@ Mewtwo in *Pokemon The First Movie*
 [Link] (https://www.facebook.com/profile.php?id=100028093326166)
 
 **Linkedin**
-[Link](www.linkedin.com/in/ricardo-guerrero-7063791b7)
+[Link] (www.linkedin.com/in/ricardo-guerrero-7063791b7)
 
 ![Image](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg?x78269)
