@@ -23,7 +23,8 @@ Mewtwo in *Pokemon The First Movie*
 4. Learn how to communicate effectively in a group during a software project
 5. Improve my coding style
 
-**Bold** and _Italic_ and `Code` text
+### Link to main README:
+[README](GitHub-Pages/README.md)
 
 ## Social Media
 
