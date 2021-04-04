@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# User Page
 
-You can use the [editor on GitHub](https://github.com/InfernalDrago/GitHub-Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+My name is Ricardo Guerrero. I am an aspiring computer programmer who wishes to work in the software or gaming industry after earning my degree. My hobbies are reading fiction novels, watching anime, and playing video games on the Nintendo 3DS, PS5, or PC. I've always loved learning about technology since I was a little kid, whether it was the classroom projectors or the library computers. Sometime in middle school, I got my own laptop and started playing video games for the first time on PC, and I fell in love with how games were made. That's when I decided I wanted to spend my life learning and working in the computer science industry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Favorite Quote:
+> I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.
 
-### Markdown
+Mewtwo in *Pokemon The First Movie*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Languages I Currently Know:
+-`C`
+-`C++`
+-`Java`
+-`ARM Assembly`
+-Basic `Python`
 
-```markdown
-Syntax highlighted code block
+### Goals for this Quarter:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Learn C#
+2. Advance my knowledge in C++
+3. Create my first game
+4. Learn how to communicate effectively in a group during a software project
+5. Improve my coding style
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Social Media
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Facebook**
+[Link] (https://www.facebook.com/profile.php?id=100028093326166)
 
-### Jekyll Themes
+**Linkedin**
+[Link](www.linkedin.com/in/ricardo-guerrero-7063791b7)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InfernalDrago/GitHub-Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg?x78269)
