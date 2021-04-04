@@ -24,7 +24,7 @@ Mewtwo in *Pokemon The First Movie*
 5. Improve my coding style
 
 ### Link to main README:
-[README](gh-pages/README.md)
+[README](README.md)
 
 ## Social Media
 
