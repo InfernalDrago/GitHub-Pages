@@ -9,19 +9,19 @@ My name is Ricardo Guerrero. I am an aspiring computer programmer who wishes to 
 Mewtwo in *Pokemon The First Movie*
 
 ### Languages I Currently Know:
--`C`
--`C++`
--`Java`
--`ARM Assembly`
--Basic `Python`
+- `C`
+- `C++`
+- `Java`
+- `ARM Assembly`
+- Basic `Python`
 
 ### Goals for this Quarter:
 
-1. Learn C#
-2. Advance my knowledge in C++
-3. Create my first game
-4. Learn how to communicate effectively in a group during a software project
-5. Improve my coding style
+- [ ] Learn C#
+- [ ] Advance my knowledge in C++
+- [ ] Create my first game
+- [ ] Learn how to communicate effectively in a group during a software project
+- [ ] Improve my coding style
 
 ### Link to main README:
 [README](README.md)
